@@ -1,0 +1,35 @@
+{
+  "name": "stylelint-config-sumikko",
+  "version": "0.0.1",
+  "description": "StyleLint shareable config",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivgtr/eslint-config-sumikko.git"
+  },
+  "keywords": [
+    "eslint",
+    "prettier"
+  ],
+  "author": "ivgtr <gear.1112t.o@gmail.com> (https://github.com/ivgtr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivgtr/eslint-config-sumikko/issues"
+  },
+  "homepage": "https://github.com/ivgtr/eslint-config-sumikko#readme",
+  "devDependencies": {
+    "eslint": "^7.12.1"
+  },
+  "dependencies": {
+    "eslint-config-sumikko": "^0.0.4",
+    "prettier": "^2.1.2",
+    "stylelint": "^13.7.2",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-recess-order": "^2.3.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-prettier": "^1.1.2",
+    "stylelint-scss": "^3.18.0"
+  }
+}

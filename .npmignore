@@ -1,0 +1,23 @@
+node_modules/
+test/
+
+npm-debug.log*
+
+# gomi file in mac
+.DS_Store
+
+# dotenv environment variables file
+.env
+
+.eslintrc
+
+.babelrc
+
+.gitignore
+
+.npmignore
+
+rollup.config.js
+
+tsconfig.json
+
