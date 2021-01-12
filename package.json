@@ -6,25 +6,25 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivgtr/eslint-config-sumikko.git"
+    "url": "git+https://github.com/ivgtr/stylelint-config-sumikko.git"
   },
   "keywords": [
-    "eslint",
+    "stylelint",
     "prettier"
   ],
   "author": "ivgtr <gear.1112t.o@gmail.com> (https://github.com/ivgtr)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ivgtr/eslint-config-sumikko/issues"
+    "url": "https://github.com/ivgtr/stylelint-config-sumikko/issues"
   },
-  "homepage": "https://github.com/ivgtr/eslint-config-sumikko#readme",
+  "homepage": "https://github.com/ivgtr/stylelint-config-sumikko#readme",
   "devDependencies": {
-    "eslint": "7.17.0"
+    "eslint": "7.17.0",
+    "eslint-config-sumikko": "^0.2.1"
   },
   "dependencies": {
-    "eslint-config-sumikko": "^0.2.0",
-    "prettier": "^2.1.2",
-    "stylelint": "^13.7.2",
+    "prettier": "^2.2.1",
+    "stylelint": "^13.8.0",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-recess-order": "^2.3.0",
     "stylelint-config-standard": "^20.0.0",
