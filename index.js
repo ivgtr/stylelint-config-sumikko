@@ -15,6 +15,7 @@ module.exports = {
     ],
     'prettier/prettier': true,
     'order/order': [['dollar-variables', 'declarations', 'rules']],
-    'color-hex-length': 'short'
+    'color-hex-length': 'short',
+    'no-descending-specificity': null
   }
 }
