@@ -8,7 +8,7 @@ Stylelint + Prettier のルールセット
 ## Install
 
 ```
-npm install -D stylelint-config-sumikko stylelint prettier
+npm install -D stylelint-config-sumikko stylelint
 ```
 
 ## Usage
