@@ -947,7 +947,7 @@ eslint-config-standard@^16.0.1:
   resolved "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-16.0.2.tgz#71e91727ac7a203782d0a5ca4d1c462d14e234f6"
   integrity sha512-fx3f1rJDsl9bY7qzyX8SAtP8GBSk6MfXFaTfaGgk12aAYW4gJSyRm7dM790L6cbXv63fvjY4XeSzXnb4WM+SKw==
 
-eslint-config-sumikko@^0.2.1:
+eslint-config-sumikko@0.2.1:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/eslint-config-sumikko/-/eslint-config-sumikko-0.2.1.tgz#382b233659081dab91765444a7acc32f0c2eebfd"
   integrity sha512-SI2drFDoAH8Q1pNGxWAz2BNYvjKW0bUz7jVPjnfiAWyIk+NKzBzdoEEJPD/vB1+lWQQb+fPEMvNuxpL9NXjydA==
