@@ -6,12 +6,9 @@
   "patch": {
     "automerge": true
   },
-  "pin": {
-    "automerge": true
-  },
   "packageRules": [
     {
-      "depTypeList": ["patch", "pin", "devDependencies"],
+      "depTypeList": ["devDependencies"],
       "automerge": true
     }
   ]
