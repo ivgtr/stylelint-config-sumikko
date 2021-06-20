@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ivgtr/stylelint-config-sumikko#readme",
   "devDependencies": {
-    "eslint": "7.28.0",
+    "eslint": "7.29.0",
     "eslint-config-sumikko": "1.1.2"
   },
   "dependencies": {
