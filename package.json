@@ -18,6 +18,7 @@
     "url": "https://github.com/ivgtr/stylelint-config-sumikko/issues"
   },
   "homepage": "https://github.com/ivgtr/stylelint-config-sumikko#readme",
+  "files": ["index.js"],
   "devDependencies": {
     "eslint": "7.32.0",
     "eslint-config-sumikko": "1.2.1"
