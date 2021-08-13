@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-sumikko",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "StyleLint shareable config",
   "main": "index.js",
   "scripts": {},
@@ -18,7 +18,9 @@
     "url": "https://github.com/ivgtr/stylelint-config-sumikko/issues"
   },
   "homepage": "https://github.com/ivgtr/stylelint-config-sumikko#readme",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "devDependencies": {
     "eslint": "7.32.0",
     "eslint-config-sumikko": "1.2.1"
